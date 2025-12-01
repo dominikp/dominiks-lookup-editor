@@ -4,7 +4,7 @@
   "app": {
     "name": "dominiks-lookup-editor",
     "version": "0.1.0",
-    "description": "A small helper app that allows me to manage lookup tables in Dynatrace more easily.",
+    "description": "Helper app that allows to manage lookup tables in Dynatrace more easily.",
     "id": "my.dominiks.lookup.editor",
     "scopes": [
       { "name": "storage:logs:read", "comment": "default template" },
