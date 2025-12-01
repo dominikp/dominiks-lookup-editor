@@ -1,6 +1,6 @@
 {
   "$schema": "./.dt-app/app.config.schema.json",
-  "environmentUrl": "https://dre63214.apps.dynatrace.com/",
+  "environmentUrl": "https://gmg80500.dev.apps.dynatracelabs.com/",
   "app": {
     "name": "dominiks-lookup-editor",
     "version": "0.1.0",
